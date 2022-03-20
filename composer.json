@@ -1,0 +1,21 @@
+{
+    "name": "defrindr/yii2-swalert",
+    "description": "Yii Sweet Alert Integration",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Defri Indra Mahardika",
+            "email": "defrindr@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "defrindr\\": ""
+        }
+    }
+}
